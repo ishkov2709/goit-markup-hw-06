@@ -662,6 +662,8 @@ footer {
   border-radius: 2px;
 
   cursor: pointer;
+
+  transition: background-color var(--time-function);
 }
 
 .check-icon {
